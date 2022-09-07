@@ -25,6 +25,10 @@ h1 {
   margin: 10px;
 }
 
+.wrapper > label >input{
+  width: 300px;
+}
+
 button {
   margin-left: 10px;
   width: 150px;
